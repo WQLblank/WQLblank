@@ -1,2 +1,2 @@
 # WQLblank
-I'm a student
+HUST
